@@ -82,7 +82,7 @@ if FONT_AWESOME_TESTING:
         # https://fontawesome.com/
         {
             "name": "个人网站",
-            "url": "https://www.qq.com/",
+            "url": "https://www.3139822.xyz/",
             "html": "",
             "class": "fa-solid fa-user fa-2x",
         },
