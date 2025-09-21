@@ -92,12 +92,12 @@ if FONT_AWESOME_TESTING:
         #     "html": "",
         #     "class": "fa-brands fa-qq fa-2x", # fa-brands fa-qq fa-shake fa-2x
         # },
-        {
-            "name": "GitHub",
-            "url": "https://github.com/warmasy/autojx",
-            "html": "",
-            "class": "fa-brands fa-github fa-2x", # fa-brands fa-github fa-flip fa-2x
-        },
+        # {
+        #     "name": "GitHub",
+        #     "url": "https://github.com/warmasy/autojx",
+        #     "html": "",
+        #     "class": "fa-brands fa-github fa-2x", # fa-brands fa-github fa-flip fa-2x
+        # },
         # {
         #     "name": "bilibili",
         #     "url": "https://space.bilibili.com/399924261",
