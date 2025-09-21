@@ -81,27 +81,9 @@ if FONT_AWESOME_TESTING:
     html_theme_options["footer_icons"] = [
         # https://fontawesome.com/
         {
-            "name": "邮箱",
+            "name": "个人网站",
             "url": "https://www.qq.com/",
             "html": "",
-            "class": "fa-solid fa-envelope fa-2x", # fa-solid fa-envelope fa-bounce fa-2x
+            "class": "fa-solid fa-user fa-2x",
         },
-        # {
-        #     "name": "qq",
-        #     "url": "https://www.qq.com/",
-        #     "html": "",
-        #     "class": "fa-brands fa-qq fa-2x", # fa-brands fa-qq fa-shake fa-2x
-        # },
-        # {
-        #     "name": "GitHub",
-        #     "url": "https://github.com/warmasy/autojx",
-        #     "html": "",
-        #     "class": "fa-brands fa-github fa-2x", # fa-brands fa-github fa-flip fa-2x
-        # },
-        # {
-        #     "name": "bilibili",
-        #     "url": "https://space.bilibili.com/399924261",
-        #     "html": "",
-        #     "class": "fa-brands fa-bilibili fa-2x", #fa-brands fa-bilibili fa-bounce fa-2x
-        # },
     ]
